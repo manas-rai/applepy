@@ -9,3 +9,7 @@ x=int(input())
 y=int(input())
 c=greater(x,y)
 print(c)
+
+def sum1(a,b):
+  return a+b
+  
